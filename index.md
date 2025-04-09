@@ -10,7 +10,8 @@
   - [Tasks I am currently working on](#tasks-i-am-currently-working-on)
 
 
-![My Photo](25513.jpg)
+<img src="25513.jpg" alt="My Photo" width="300"/>
+
 
 
 My name is **Damian Nieto**. I am currently studying _Mathematics and Computer Science_ at **UC San Diego**.
