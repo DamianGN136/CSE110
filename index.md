@@ -3,8 +3,11 @@
 
 ## About me
 
-- [Jump to Hobbies](#hobbies)
-- [Jump to Tasks](#tasks-im-working-on)
+- [Welcome to Damian Nieto's User Page](#welcome-to-damian-nietos-user-page)
+  - [About me](#about-me)
+  - [Goals](#goals)
+  - [Hobbies](#hobbies)
+  - [Tasks I am currently working on](#tasks-i-am-currently-working-on)
 
 
 ![My Photo](25513.jpg)
